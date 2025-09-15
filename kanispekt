@@ -1,0 +1,57 @@
+switch va case
+
+javaSkriptda switch va case bir necha if-elis va bloklarni qisqartirish uchun ishlatlinadi. bu operatorlar 
+bir qiymatni tekshiradi va uchragan birinchi tog`ri javobnni qaytaradi
+
+string metodlari 
+javaSkriptda string metodlari tupe bilan birin bir bajarish uchumn string metodlari ishlab 
+chiqilgan 
+metod funksiyaga tenga vaaabyekning ichida yaratilgan funksiya metod diyiladi
+
+hop birinchisi "length" metodi bu nima qilib beradi bu uzunlikni olib beruchi metod
+
+JavaSkripning "slice" metodida berilgan index oralig`ida bolgan qismni kesivb olish uchun ishlatiladi
+Bu metod stringni o`zgartirmaydi  o`rniga yangni bir sttring qaytaradi 
+Manfi holatda o`ngdan chapga qarab string kesadi 
+
+subsring startindex endindex berilgan index oralig`dagi bolgan qisimni kesib olish uchun ishlaydi.
+Slice bilan bir birudan farqi agar bir substringa mafiy qiymat bersak u substinga 0 ga teng boladi.
+
+Replace-stringni malim bir qismni bohqa stringa almashtirish uchun ishlaydi.
+
+toUpperCase bu strimgmi sozlarni kota qilib beruchii metod va buni ukasi esa 
+toLowerCase bu esa stringdagi sozlarni yoki matinglarni kichkina qilib beruchi metod va bu odiy qqilib berttganda akani teskarisi
+
+JavaSkripda concat metodini ishlatish, ikkta yoki undan kop stringlarni bir-biriga qoshishingiz mynkun,
+Bu metod ail stringlarni o`zgartirmaydi o`rnihga yangi string qoyadi ,
+ikkala stringni qoshgan holda
+
+JavaSkripda trim metodni ishlatib  stringni bosh va ohirgi bosh joylkarni olib tashlashmiz munkun
+BU metod asl stringni o`zgartirmaydi o`rniga yangi bir strning qaytaradi ikkla stringni qoshgan holda
+
+va buni akasi bor va buni nomi Trimsstar bu nima qiladi bu stringni boshidagi bosh joylarni olib tashlaydi va buni egizaagi esa 
+Trimend bu esa strimni ohiridagi bosh joyni olib tashlaydi.
+
+JavaSkripda charAt metodni ishlatib index boyicha belgini olishmiz munkin.
+Bu metod berilgan indexdagi belgini qaytaradi.
+agarda index belgilanmasa metodni qiymati bosh stringni qaytaradi.
+
+javaSkriptda charcodeat metodni ishlatib stringgni belgilari boyischa unicod qiymatni olishingiz munkun 
+bu metod berilgan indexdagi uunicode qiymatni qaytaradi 
+agarda belgi topilmasa NaN yoki numer qaytaradi qiymati qaytariladi.
+
+javaSkriptda splite metodni ishlatib stringni belgilangan qiymat boyicha kesib olishingiz bunkin  
+va natijaani massiv shakilda qartaradi.
+
+JavaSkripning seaech metodni ishlatib stringda berilgan belgi ifoda qrishingiz munkin 
+bu metod qidruv natijasni birinchi topilgan indez sfatda qaytaradi,
+aagar belgi yoki ifoda topilmasa -1 qiymat qaytariladi.
+
+
+JavaSkripning includes metodni ishlatib belgilanagn stringni boshqa bir string ichisda qidrishingiz munkun 
+bu metod boling qiymat qaytaradi agar asaosiy sttring belgilangan stringni o`z ichiga olgan bolsa 
+tuse akis holda esa false qaytaradi.
+
+JavaSkripning imdexOf va lestindexOf metodlaringing qiymatoi berilgan belginiung ushu strngda 
+nechanchi indexda turganlignin rorsatadi indexOf boshida birinchi uchraganini va lestindexOf stringi ohiridan birinchi uchragani belgni 
+indexni qaytaradi.

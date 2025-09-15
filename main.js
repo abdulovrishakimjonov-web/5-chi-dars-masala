@@ -68,3 +68,20 @@
 // let qaytarish = text.split(' ').reverse(' ').join(' ')
 // console.log(qaytarish);
 
+// let color = "blue"
+
+// switch (color) {
+//     case "red":
+//     console.log("bu rang qizil");
+//     break;
+//     case ("blue"):
+//     console.log("bu rng kok");
+//     break;
+//     case "yellov":
+//     console.log("bu rang sariq");
+//     break;
+//     default:
+//     console.log("bu rang mos emas")
+
+// }
+
